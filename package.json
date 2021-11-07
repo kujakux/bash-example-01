@@ -1,0 +1,14 @@
+{
+  "name": "bash_practice_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "code": "^5.2.4",
+    "exec-sh": "^0.4.0",
+    "strip-ansi": "^7.0.1"
+  }
+}
